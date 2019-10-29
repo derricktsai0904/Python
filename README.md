@@ -10,4 +10,5 @@ from mpl_toolkits.mplot3d import axes3d
 
 fig = plt.figure()
 ax = plt.axes(projection='3d')
+
 ##------------------------------------------
